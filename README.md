@@ -1,4 +1,4 @@
-**Hi, Welcome to my profile.**
+<sub>Hi, Welcome to my profile.
 
 > mishey
 
@@ -6,6 +6,6 @@
 
 > English
 
-> Lua, Pythonn
+> Lua, Python
 
 **my discord: mishonov#1337**
